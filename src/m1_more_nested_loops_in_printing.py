@@ -9,11 +9,11 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 def main():
     """ Calls the other functions to test them. """
-    # run_test_triangle_right_justified()
-    # run_test_triangle_upside_down()
-    # run_test_vee()
-    # run_test_numbers_constant_forward()
-    # run_test_numbers_constant_backwards()
+    run_test_triangle_right_justified()
+    run_test_triangle_upside_down()
+    run_test_vee()
+    run_test_numbers_constant_forward()
+    run_test_numbers_constant_backwards()
     run_test_numbers_increasing_forward()
 
 
